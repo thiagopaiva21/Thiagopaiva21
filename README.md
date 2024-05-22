@@ -2,7 +2,7 @@
 
 Meu nome é Thiago paiva
 
-- Estou estudando no Alura(https://www.alura.com.br)
+- Estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem do JavaScript
 - utilizo esse espaço para minha organização e compartilhamento dos seus projetos desenvolvidos
 
