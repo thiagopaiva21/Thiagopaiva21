@@ -8,8 +8,8 @@ Meu nome é Thiago paiva
 
 - ### Você entrar em contato comigo 📫
 
-- thztai8@g
-- 
+- thztai8@gmail.com
+  
 - @thiagopaiva21
 
 ![](https://media1.tenor.com/m/opEBWw0uddoAAAAC/umm.gif)
